@@ -54,8 +54,8 @@
         <br>CSS</br>
 </td>
 <td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" padding="5" alt="Tailwind CSS" />
-        <br>Tailwind CSS</br>
+        <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" padding="5" alt="Tailwind" />
+        <br>Tailwind</br>
 </td>
 <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" padding="5" alt="JavaScript" />
