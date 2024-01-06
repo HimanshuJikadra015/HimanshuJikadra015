@@ -23,7 +23,7 @@
  
 ## Connect Card Game
 [![Connect-4](https://github-readme-stats.vercel.app/api/pin/?username=HimanshuJikadra015&repo=Connect-4&show_icons=true&theme=transparent)](https://github.com/HimanshuJikadra015/Connect-4)
-
+Connect 4 AI Game with Python & Min-Max Algorithm with Alpha-Beta Pruning
 </td>
 </tr>
 
