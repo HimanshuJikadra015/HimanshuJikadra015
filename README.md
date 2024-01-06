@@ -70,6 +70,8 @@
         <br>Bootstrap</br>
 </td>
 </tr>
+</table>
+<table>
 <tr>
  <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=git" width="60" height="60" padding="5" alt="Git" />
