@@ -1,7 +1,7 @@
-# Hello there 🌌!
+# Hello there ☄️!
 
 
-> I, Himanshu Jikadra.
+> I, Himanshu Jikadra, a Bachelor of Technology student in Computer Science and Engineering passionate about web development.
 
  [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimanshuJikadra015&theme=transparent)](https://github.com/HimanshuJikadra015/)
 
