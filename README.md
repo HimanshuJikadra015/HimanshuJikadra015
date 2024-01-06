@@ -15,14 +15,14 @@
 <td>
  
 ## Chat Application
-[![Combine-bonds](https://github-readme-stats.vercel.app/api/pin/?username=HimanshuJikadra015&repo=Chatify&show_icons=true&theme=transparent)](https://github.com/HimanshuJikadra015/Chatify)
+[![Chatify](https://github-readme-stats.vercel.app/api/pin/?username=HimanshuJikadra015&repo=Chatify&show_icons=true&theme=transparent)](https://github.com/HimanshuJikadra015/Chatify)
 
 </td>
 
 <td>
  
 ## Connect 4 Game
-[![Silmarillion](https://github-readme-stats.vercel.app/api/pin/?username=HimanshuJikadra015&repo=Connect-4&show_icons=true&theme=transparent)](https://github.com/HimanshuJikadra015/Connect-4)
+[![Connect-4](https://github-readme-stats.vercel.app/api/pin/?username=HimanshuJikadra015&repo=Connect-4&show_icons=true&theme=transparent)](https://github.com/HimanshuJikadra015/Connect-4)
 
 </td>
 </tr>
