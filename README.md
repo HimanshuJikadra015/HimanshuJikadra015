@@ -95,5 +95,13 @@
         <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" padding="5" alt="Next.js" /></a>
         <br>Next.js</br>
 </td>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=ts" width="60" height="60" padding="5" alt="TypeScript" /></a>
+        <br>TypeScript</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=postman" width="60" height="60" padding="5" alt="Postman" /></a>
+        <br>Postman</br>
+</td>
 </tr>
 </table>
