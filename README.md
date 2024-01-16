@@ -91,7 +91,9 @@
         <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" padding="5" alt="Node.js" /></a>
         <br>Node.js</br>
 </td>
-
-
+<td align="center" width="96" style="border:2px solid blue">
+        <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" padding="5" alt="Next.js" /></a>
+        <br>Next.js</br>
+</td>
 </tr>
 </table>
