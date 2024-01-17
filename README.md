@@ -92,19 +92,19 @@
         <br>Node.js</br>
 </td>
 <td align="center" width="96" style="border:2px solid blue">
-        <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" padding="5" alt="Next.js" /></a>
+        <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" padding="5" alt="Next.js" /></a>
         <br>Next.js</br>
 </td>
 <td align="center" width="96" style="border:2px solid blue">
-        <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=ts" width="60" height="60" padding="5" alt="TypeScript" /></a>
+        <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="60" height="60" padding="5" alt="TypeScript" /></a>
         <br>TypeScript</br>
 </td>
 <td align="center" width="96" style="border:2px solid blue">
-        <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=postman" width="60" height="60" padding="5" alt="Postman" /></a>
+        <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="60" height="60" padding="5" alt="Postman" /></a>
         <br>Postman</br>
 </td>
 <td align="center" width="96" style="border:2px solid blue">
-        <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=redis" width="60" height="60" padding="5" alt="Redis" /></a>
+        <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="60" height="60" padding="5" alt="Redis" /></a>
         <br>Redis</br>
 </td>
 </tr>
