@@ -8,6 +8,7 @@
 ## Top Languages: 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuJikadra015&show_icons=true&theme=transparent&layout=donut)
 
+## Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimanshuJikadra015&theme=transparent)
 
 ## Languages and Tools:
