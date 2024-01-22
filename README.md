@@ -8,6 +8,10 @@
 ## Top Languages: 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuJikadra015&show_icons=true&theme=transparent&layout=donut)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimanshuJikadra015&theme=transparent)
+
+![Henil's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuJikadra015&count_private=true&show_icons=true&theme=transparent)
+
 ## Languages and Tools:
 
 <table>
