@@ -10,8 +10,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimanshuJikadra015&theme=transparent)
 
-![Henil's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuJikadra015&count_private=true&show_icons=true&theme=transparent)
-
 ## Languages and Tools:
 
 <table>
